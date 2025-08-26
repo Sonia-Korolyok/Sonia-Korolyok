@@ -6,7 +6,7 @@
 
 🎯 My goal is to become a confident full-stack developer and enjoy building cool and useful apps.
 
-⏱️ Coding Activity
+<--⏱️ Coding Activity-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
