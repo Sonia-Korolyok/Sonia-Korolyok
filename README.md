@@ -6,6 +6,7 @@
 
 🎯 My goal is to become a confident full-stack developer and enjoy building cool and useful apps.
 
+[![WakaTime Stats](https://wakatime.com/badge/user/ваш_user_id.svg)](https://wakatime.com/@Sonya_Blade)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
