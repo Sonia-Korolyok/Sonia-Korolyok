@@ -6,7 +6,7 @@
 
 🎯 My goal is to become a confident full-stack developer and enjoy building cool and useful apps.
 
-<--[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sonya_Blade&layout=compact&theme=algolia)](https://wakatime.com/@Sonya_Blade)-->
+<!--[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sonya_Blade&layout=compact&theme=algolia)](https://wakatime.com/@Sonya_Blade)-->
 
 
 💬 Always open to new projects, creative challenges, and friendly collaboration!
