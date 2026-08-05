@@ -1,51 +1,31 @@
 ## Hi there, I’m Sonia 👋
 
-☁️ Backend developer focused on building scalable serverless systems with AWS and Java.
+☁️ Backend developer building serverless systems with AWS and Java.  
+🔧 Focused on APIs, infrastructure, PostgreSQL, testing, and production reliability.
 
-I work with AWS Lambda, EventBridge, and PostgreSQL to design and maintain microservices, APIs, and data workflows.
+### 🧰 Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-My day-to-day includes writing production-grade Java code, improving test coverage, and debugging real-world issues in distributed systems.
+### 💼 What I do
+- Build and maintain AWS-based backend services
+- Design and support REST APIs and event-driven flows
+- Work with PostgreSQL and data-heavy integrations
+- Improve test coverage and code reliability
+- Debug production issues and distributed workflows
 
-### 🛠️ Tech I work with
-- Java
-- AWS Lambda
-- EventBridge
-- CloudWatch
-- PostgreSQL
-- Maven
-- REST APIs
-- JUnit & Mockito
+### 🌱 Current focus
+- AWS architecture
+- Serverless infrastructure
+- System design
+- Better observability and troubleshooting
 
-### 🎯 What I care about
-- Clean and maintainable code
-- Reliable, testable systems
-- Thoughtful API design
-- Observability and debugging
-- Continuous improvement
-
-### 🚀 Current focus
-Deepening my expertise in AWS architecture, serverless infrastructure, and system design patterns.
-
-### 📊 Stats
+### 📈 Stats
 [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sonya_Blade&layout=compact&theme=algolia)](https://wakatime.com/@Sonya_Blade)
 
-### 🤝 Open to
-Meaningful backend work, interesting infrastructure problems, and collaboration with people who care about building solid systems.
-
-
-
-
-<!--
-**Sonia-Korolyok/Sonia-Korolyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let’s connect
+Always interested in backend engineering, cloud architecture, and well-built systems.
