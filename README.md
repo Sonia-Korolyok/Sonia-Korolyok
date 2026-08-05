@@ -1,15 +1,23 @@
 ## Hi there 👋 I'm Sonia
 
-🎓 I'm currently studying full-stack development.  
-💻 Right now I'm focusing on the front-end — learning JS, React, TypeScript, RTK, and Firebase.  
-🛠️ Soon diving into back-end development with Node.js and databases.
-
-🎯 My goal is to become a confident full-stack developer and enjoy building cool and useful apps.
+Backend developer focused on building scalable serverless systems with AWS and Java.
+I work with AWS Lambda, EventBridge, and PostgreSQL to design and maintain microservices, APIs, and data workflows. My day-to-day includes writing production-grade Java code, improving test coverage, and debugging real-world issues in distributed systems.
+What I work with
+	•	Java (Lambda, microservices, Maven)
+	•	AWS (Lambda, EventBridge, CloudWatch, RDS)
+	•	PostgreSQL (schema design, queries, performance)
+	•	REST APIs and backend architecture
+	•	Testing (JUnit, Mockito)
+What I care about
+	•	Clean, maintainable code
+	•	Reliable and testable systems
+	•	Thoughtful API design
+	•	Continuous improvement and learning
+Currently diving deeper into AWS architecture and system design patterns.
 
 [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sonya_Blade&layout=compact&theme=algolia)](https://wakatime.com/@Sonya_Blade)
 
 
-💬 Always open to new projects, creative challenges, and friendly collaboration!
 
 <!--
 **Sonia-Korolyok/Sonia-Korolyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
